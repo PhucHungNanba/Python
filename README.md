@@ -4,7 +4,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch)
 ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
 
-Chào mừng đến với kho lưu trữ các bài tập và đồ án cuối kỳ môn **Ngôn ngữ Lập trình Python**. Repository này lưu trữ quá trình học tập và nghiên cứu của tôi tại Đại học Sài Gòn.
+Mục đích tạo Repo này lưu trữ quá trình học tập và nghiên cứu.
 
 ## Thông tin sinh viên
 * **Họ và tên:** Huỳnh Phúc Hưng
